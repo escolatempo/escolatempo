@@ -1,0 +1,137 @@
+@font-face {
+     font-family: SegoeUI;
+     src: url('/fonts/911Fonts.com_SegoePrint__-_911fonts.com_fonts_oki4.ttf');
+}
+
+.login-dropdown{
+	width: 30rem;
+	font-family: arial;
+	padding: 1rem;
+}
+
+#login-btn{
+	margin: 2px;
+}
+
+#cadastrar-btn{
+	margin: 2px;
+}
+
+body{
+	margin-bottom: 5rem;
+}
+
+.fc-time{
+	display: none;
+}
+
+.paddingNull{
+	padding: 0;
+}
+
+.glyphicon-remove{
+	float: right;
+}
+
+.custom-nav-bar{
+	margin-top: 2rem;
+}
+
+.custom-nav-bar-body{	
+	margin-top: 4rem;
+}
+
+.custom-logo{
+	margin-top: -2rem;
+	width: 80%;
+}
+
+.custom-navbar-icon{
+	color: #ffba41;
+	font-family: "SegoeUI";
+	font-size: 1.8rem;
+	font-weight: bold;
+}
+
+.putHover{
+	border: 0.1rem solid #ffba41 !important;
+	background-color: white !important;
+	color: #ffba41 !important;
+}
+
+.separador-nav-bar{	
+	max-width: 100%;
+	height: auto;
+}
+
+.quem-somos{
+	background-image: url('/img/quem-somos-backgrand.jpg');
+	color: white;
+	text-align: center;
+}
+
+.quem-somos-text{
+	max-width: 75%;
+	margin: auto;
+	font-family: "arial";
+}
+
+.quem-somos-h1{
+	font-family: "SegoeUI";
+	font-weight: bold;
+}
+
+.custom-slider{
+	background-color: #ffa60e;
+}
+
+#carousel-example-generic{
+	max-width: 70%;
+	margin: auto;	
+}
+
+.custom-footer{
+	background-image: url('/img/footer-backgrand.jpg');	
+	text-align: center;
+}
+
+#map{	
+	height: 250px;
+	width: 400px;
+	margin-left: 8rem;
+}
+
+.contato{
+	font-size: 1.8rem;
+	font-weight: bold;
+}
+
+.user-nav-bar{
+	size: 1.2rem;
+	font-size: 90%;
+}
+
+.custom-logo-user{
+	width: 60%;
+}
+
+.modal-title{
+	color: #ffba41;
+}
+
+.sign-up-modal{
+	color: white;
+    background-image: url('/img/quem-somos-backgrand.jpg');
+}
+
+.calendar-index-color{
+	width: 12px;
+	height: 12px;
+	position: relative;
+	top: 14px;
+	left: -10px;
+}
+
+.calendar-line{
+	margin-top: 0px;
+}
